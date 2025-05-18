@@ -1,0 +1,11 @@
+
+CREATE TABLE UserBiometrics (
+	Id INT IDENTITY(1,1) PRIMARY KEY,
+	UserId INT,
+	BiometricType INT,
+	BiometricData VARCHAR(MAX) NOT NULL,
+	CreatedAt DATETIME2 NOT NULL DEFAULT GETDATE(),
+	ModifiedAt DATETIME2 NULL,
+
+	FOREIGN KEY (UserId) REFERENCES Users(Id)
+)

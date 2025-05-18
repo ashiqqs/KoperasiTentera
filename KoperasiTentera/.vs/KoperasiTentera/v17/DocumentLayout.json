@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\models\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\models\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\dataaccess\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\dataaccess\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\services\\otprequest\\otprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\services\\otprequest\\otprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\services\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\services\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\utils\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\utils\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\models\\viewmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\models\\viewmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\models\\factories\\otpfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\models\\factories\\otpfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\dataaccess\\dtos\\otprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\dataaccess\\dtos\\otprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\models\\viewmodels\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\models\\viewmodels\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\dataaccess\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\dataaccess\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\dataaccess\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\dataaccess\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\utils\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\utils\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\dataaccess\\repositories\\otprequest\\otprequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\dataaccess\\repositories\\otprequest\\otprequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\dataaccess\\repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\dataaccess\\repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\dataaccess\\repositories\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\dataaccess\\repositories\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\models\\viewmodels\\userbiometric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\models\\viewmodels\\userbiometric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|d:\\projects\\niyogassesment\\koperasitentera\\koperasitentera\\dataaccess\\dtos\\userbiometricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00233AA-F92E-4C63-8C48-32FE913FCC8B}|KoperasiTentera\\KoperasiTentera.csproj|solutionrelative:koperasitentera\\dataaccess\\dtos\\userbiometricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Models\\Validators\\CustomerValidator.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\Models\\Validators\\CustomerValidator.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Models\\Validators\\CustomerValidator.cs",
+              "RelativeToolTip": "KoperasiTentera\\Models\\Validators\\CustomerValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T02:39:30.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OtpRequestService.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Services\\OtpRequest\\OtpRequestService.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\Services\\OtpRequest\\OtpRequestService.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Services\\OtpRequest\\OtpRequestService.cs",
+              "RelativeToolTip": "KoperasiTentera\\Services\\OtpRequest\\OtpRequestService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwEAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:37:41.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Utils\\Enums.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\Utils\\Enums.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Utils\\Enums.cs",
+              "RelativeToolTip": "KoperasiTentera\\Utils\\Enums.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:36:21.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\Services\\User\\UserService.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Services\\User\\UserService.cs",
+              "RelativeToolTip": "KoperasiTentera\\Services\\User\\UserService.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAEwHUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:07:32.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OtpRequestDto.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\DTOs\\OtpRequestDto.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\DataAccess\\DTOs\\OtpRequestDto.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\DTOs\\OtpRequestDto.cs",
+              "RelativeToolTip": "KoperasiTentera\\DataAccess\\DTOs\\OtpRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:02:43.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OtpFactory.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Models\\Factories\\OtpFactory.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\Models\\Factories\\OtpFactory.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Models\\Factories\\OtpFactory.cs",
+              "RelativeToolTip": "KoperasiTentera\\Models\\Factories\\OtpFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:56:08.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Services\\Customer\\CustomerService.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\Services\\Customer\\CustomerService.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Services\\Customer\\CustomerService.cs",
+              "RelativeToolTip": "KoperasiTentera\\Services\\Customer\\CustomerService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAASwDkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T02:10:43.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Utils\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\Utils\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Utils\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "KoperasiTentera\\Utils\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T02:02:23.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\SqlDbContext.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\DataAccess\\SqlDbContext.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\SqlDbContext.cs",
+              "RelativeToolTip": "KoperasiTentera\\DataAccess\\SqlDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:09:07.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Controllers\\UserController.cs",
+              "RelativeToolTip": "KoperasiTentera\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAD4vxoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:06:52.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Models\\ViewModels\\User.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\Models\\ViewModels\\User.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Models\\ViewModels\\User.cs",
+              "RelativeToolTip": "KoperasiTentera\\Models\\ViewModels\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T02:15:08.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Program.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\Program.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Program.cs",
+              "RelativeToolTip": "KoperasiTentera\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:49:41.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\DataAccess\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\Repositories\\Repository.cs",
+              "RelativeToolTip": "KoperasiTentera\\DataAccess\\Repositories\\Repository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowC8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:11:05.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\DataAccess\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "KoperasiTentera\\DataAccess\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:12:07.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Models\\ViewModels\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\Models\\ViewModels\\LoginRequest.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Models\\ViewModels\\LoginRequest.cs",
+              "RelativeToolTip": "KoperasiTentera\\Models\\ViewModels\\LoginRequest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAD4vxEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:01:30.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OtpRequestRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\Repositories\\OtpRequest\\OtpRequestRepository.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\DataAccess\\Repositories\\OtpRequest\\OtpRequestRepository.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\Repositories\\OtpRequest\\OtpRequestRepository.cs",
+              "RelativeToolTip": "KoperasiTentera\\DataAccess\\Repositories\\OtpRequest\\OtpRequestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:16:59.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\Repositories\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\DataAccess\\Repositories\\User\\UserRepository.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\Repositories\\User\\UserRepository.cs",
+              "RelativeToolTip": "KoperasiTentera\\DataAccess\\Repositories\\User\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:16:50.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\DataAccess\\DTOs\\CustomerDto.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "KoperasiTentera\\DataAccess\\DTOs\\CustomerDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:08:29.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\DataAccess\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "KoperasiTentera\\DataAccess\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA1wA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:08:20.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\Repositories\\User\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\DataAccess\\Repositories\\User\\IUserRepository.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\Repositories\\User\\IUserRepository.cs",
+              "RelativeToolTip": "KoperasiTentera\\DataAccess\\Repositories\\User\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:16:58.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserBiometric.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Models\\ViewModels\\UserBiometric.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\Models\\ViewModels\\UserBiometric.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\Models\\ViewModels\\UserBiometric.cs",
+              "RelativeToolTip": "KoperasiTentera\\Models\\ViewModels\\UserBiometric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:07:22.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserBiometricDto.cs",
+              "DocumentMoniker": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\DTOs\\UserBiometricDto.cs",
+              "RelativeDocumentMoniker": "KoperasiTentera\\DataAccess\\DTOs\\UserBiometricDto.cs",
+              "ToolTip": "D:\\Projects\\NiyogAssesment\\KoperasiTentera\\KoperasiTentera\\DataAccess\\DTOs\\UserBiometricDto.cs",
+              "RelativeToolTip": "KoperasiTentera\\DataAccess\\DTOs\\UserBiometricDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:02:51.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

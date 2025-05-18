@@ -1,0 +1,62 @@
+Customer API
+
+Register a Customer
+POST /api/Customer/Registration
+{
+  "id": 0,
+  "name": "string",
+  "icNumber": "string",
+  "contactNumber": "string",
+  "email": "string"
+}
+
+
+-----------------------------------
+User API
+
+Verify OTP
+POST /api/User/VerifyOTP
+{
+  "customerId": 0,
+  "otpMethod": 0,
+  "code": "string"
+}
+
+Request OTP
+POST /api/User/RequestOTP
+{
+  "customerId": 0,
+  "otpMethod": 0
+}
+
+Login
+POST /api/User/Login
+{
+  "icNumber": "string"
+}
+
+Update User Details
+POST /api/User/Update
+{
+  "id": 0,
+  "customerId": 0,
+  "contactVerified": true,
+  "emailVerified": true,
+  "biometricEnabled": true
+}
+
+Verify User PIN
+POST /api/User/VerifyUserPIN
+{
+  "userId": 0,
+  "pin": "string"
+}
+
+Set PIN
+POST /api/User/SetPIN
+{
+  "userId": 0,
+  "pin": "string"
+}
+
+
